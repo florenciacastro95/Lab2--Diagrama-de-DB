@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="OAdbk_ETyMLO9n_MLoZe">
-    <mxGraphModel dx="1311" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,11 +423,11 @@
         <mxCell id="zpOh2JFRQXcmT8-b-XCq-69" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="zpOh2JFRQXcmT8-b-XCq-68">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zpOh2JFRQXcmT8-b-XCq-70" value="Relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="zpOh2JFRQXcmT8-b-XCq-70" value="&lt;div&gt;Tiene&lt;br&gt;&lt;/div&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1560" y="795" width="75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpOh2JFRQXcmT8-b-XCq-71" value="Relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="zpOh2JFRQXcmT8-b-XCq-71" value="Tiene" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="790" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zpOh2JFRQXcmT8-b-XCq-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zpOh2JFRQXcmT8-b-XCq-71" target="zpOh2JFRQXcmT8-b-XCq-65">
           <mxGeometry relative="1" as="geometry">
