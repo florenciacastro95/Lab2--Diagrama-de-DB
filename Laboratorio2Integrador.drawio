@@ -220,13 +220,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zpOh2JFRQXcmT8-b-XCq-1" value="Prescripcion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="1330" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zpOh2JFRQXcmT8-b-XCq-3" value="dosis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="490" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zpOh2JFRQXcmT8-b-XCq-4" value="duracion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="490" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zpOh2JFRQXcmT8-b-XCq-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zpOh2JFRQXcmT8-b-XCq-1" target="zpOh2JFRQXcmT8-b-XCq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="600" as="sourcePoint" />
+            <mxPoint x="1440" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zpOh2JFRQXcmT8-b-XCq-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zpOh2JFRQXcmT8-b-XCq-3" target="zpOh2JFRQXcmT8-b-XCq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="570" as="sourcePoint" />
+            <mxPoint x="1440" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
